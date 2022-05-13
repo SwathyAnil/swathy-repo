@@ -1,1 +1,1 @@
-newfile 
+this is file b
